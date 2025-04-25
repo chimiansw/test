@@ -1,13 +1,13 @@
 IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-130.61.203.115,8443,443,true,FRA,Europe,Frankfurt,195,11.60
-104.17.241.76,8443,443,true,SJC,North America,San Jose,145,11.60
-104.17.78.192,8443,443,true,SJC,North America,San Jose,145,11.60
-104.18.91.25,8443,443,true,SJC,North America,San Jose,145,11.60
-104.16.127.172,8443,443,true,SJC,North America,San Jose,146,11.60
-104.17.65.145,8443,443,true,SJC,North America,San Jose,146,11.60
-104.20.17.235,8443,443,true,HKG,Asia Pacific,Hong Kong,68,11.60
-104.20.18.132,8443,443,true,HKG,Asia Pacific,Hong Kong,68,11.60
-104.20.24.72,8443,443,true,HKG,Asia Pacific,Hong Kong,69,11.60
-104.20.26.156,8443,443,true,HKG,Asia Pacific,Hong Kong,69,11.60
-104.26.7.247,8443,443,true,HKG,Asia Pacific,Hong Kong,69,11.60
-162.159.160.143,8443,443,true,ARN,Europe,Stockholm,259,11.60
+130.61.203.115,443,443,true,FRA,Europe,Frankfurt,195,11.60
+104.17.241.76,443,443,true,SJC,North America,San Jose,145,11.60
+104.17.78.192,443,443,true,SJC,North America,San Jose,145,11.60
+104.18.91.25,443,443,true,SJC,North America,San Jose,145,11.60
+104.16.127.172,443,443,true,SJC,North America,San Jose,146,11.60
+104.17.65.145,443,443,true,SJC,North America,San Jose,146,11.60
+104.20.17.235,443,443,true,HKG,Asia Pacific,Hong Kong,68,11.60
+104.20.18.132,443,443,true,HKG,Asia Pacific,Hong Kong,68,11.60
+104.20.24.72,443,443,true,HKG,Asia Pacific,Hong Kong,69,11.60
+104.20.26.156,443,443,true,HKG,Asia Pacific,Hong Kong,69,11.60
+104.26.7.247,443,443,true,HKG,Asia Pacific,Hong Kong,69,11.60
+162.159.160.143,443,443,true,ARN,Europe,Stockholm,259,11.60
